@@ -3,7 +3,7 @@ SQL-Housing-Dataset
 SELECT * 
 FROM housing.dbo.housing
 
---Select only the street, neighborhood and housestyle columns from the dataset
+--Select only the street, neighbourhood and house style columns from the dataset
 SELECT neighborhood, housestyle, street
 FROM housing.dbo.housing
 
